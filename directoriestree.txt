@@ -1,0 +1,31 @@
+.
+├── App.tsx
+├── Gemfile
+├── Gemfile.lock
+├── README.md
+├── __tests__
+│   └── App.test.tsx
+├── app.json
+├── babel.config.js
+├── directoriestree.txt
+├── index.js
+├── jest.config.js
+├── metro.config.js
+├── package-lock.json
+├── package.json
+├── src
+│   ├── components
+│   │   ├── Camera
+│   │   │   └── index.tsx
+│   │   └── Game
+│   │       └── index.tsx
+│   ├── navigation
+│   │   └── index.tsx
+│   ├── screens
+│   │   ├── GameScreen.tsx
+│   │   └── HomeScreen.tsx
+│   ├── services
+│   └── utils
+├── tsconfig.json
+└── yarn.lock
+
